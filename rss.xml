@@ -4,21 +4,21 @@
         <description><![CDATA[Murat]]></description>
         <link>https://thegrid.ai/murat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 17:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 17:37:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/murat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
             <link>https://thegrid.ai/murat/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">9a1867dd-45b7-4d4f-9338-561e638086b8</guid>
-            <pubDate>Sat, 19 Dec 2015 17:36:38 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 17:37:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The first post on the grid]]></title>
             <description><![CDATA[<article><h1>The first post on the grid</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fe14212-09e8-4676-b475-3524d1979a44.png"></article>]]></description>
             <link>https://thegrid.ai/murat/the-first-post-on-the-grid/index.html</link>
             <guid isPermaLink="false">a6d5551b-8e76-4d5e-82f4-97becff61d91</guid>
-            <pubDate>Sat, 19 Dec 2015 17:36:37 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 17:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
